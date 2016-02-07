@@ -9,7 +9,7 @@ Be sure to have node and npm installed
   <code>
     npm install
   </code>
-2. Start mongoDB and redis servers. I use Kitematic
+2. Start mongoDB and redis servers. I used Kitematic.
 3. Run Webpack from the root directory
   <code>
     webpack --watch
